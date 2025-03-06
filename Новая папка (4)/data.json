@@ -1,0 +1,116 @@
+{
+    "en": {
+        "categories": {
+            "clothing": {
+                "name": "Clothing",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "T-shirt",
+                        "image": "images/tshirt.jpg",
+                        "description": "Comfortable cotton t-shirt"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jeans",
+                        "image": "images/jeans.jpg",
+                        "description": "Stylish blue jeans"
+                    }
+                ]
+            },
+            "footwear": {
+                "name": "Footwear",
+                "products": [
+                    {
+                        "id": 3,
+                        "name": "Sneakers",
+                        "image": "images/sneakers.jpg",
+                        "description": "Trendy sneakers"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Boots",
+                        "image": "images/boots.jpg",
+                        "description": "Durable boots"
+                    }
+                ]
+            }
+        }
+    },
+    "ru": {
+        "categories": {
+            "clothing": {
+                "name": "Одежда",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Футболка",
+                        "image": "images/tshirt.jpg",
+                        "description": "Удобная хлопковая футболка"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Джинсы",
+                        "image": "images/jeans.jpg",
+                        "description": "Стильные синие джинсы"
+                    }
+                ]
+            },
+            "footwear": {
+                "name": "Обувь",
+                "products": [
+                    {
+                        "id": 3,
+                        "name": "Кроссовки",
+                        "image": "images/sneakers.jpg",
+                        "description": "Модные кроссовки"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Ботинки",
+                        "image": "images/boots.jpg",
+                        "description": "Прочные ботинки"
+                    }
+                ]
+            }
+        }
+    },
+    "ro": {
+        "categories": {
+            "clothing": {
+                "name": "Îmbrăcăminte",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Tricou",
+                        "image": "images/tshirt.jpg",
+                        "description": "Tricou confortabil din bumbac"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jeans",
+                        "image": "images/jeans.jpg",
+                        "description": "Jeans stilat"
+                    }
+                ]
+            },
+            "footwear": {
+                "name": "Încălțăminte",
+                "products": [
+                    {
+                        "id": 3,
+                        "name": "Adidași",
+                        "image": "images/sneakers.jpg",
+"description": "Adidași trendy"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Botine",
+                        "image": "images/boots.jpg",
+                        "description": "Botine durabile"
+                    }
+                ]
+            }
+        }
+    }
+}
